@@ -26,7 +26,7 @@ body{ font-family:"å¾®è½¯é›…é»‘"; margin:0; padding:0;}
 
 
 .yjfooter img{ width:100%; height:20px;}
-.yjzhong{ width:100%; height:auto; background:url(../img/yjzhong.png) repeat-y; float:left; margin-top:-5px;}
+.yjzhong{ width:100%; height:auto; background:url(/static/images/yjzhong.png) repeat-y; float:left; margin-top:-5px;}
 .xzbw{ width:100%; height:auto; background:#fff;}
 .yjzhong .left{ width:400px; float:left; height:auto; padding-left:40px;}
 .yjzhong .left h3{ width:100%; height:40px; line-height:40px; color:#8A0013; margin-top:30px;}
